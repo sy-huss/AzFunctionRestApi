@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RHS.Message.Router", "RHS.Message.Router.csproj", "{8E5B7D2F-C43D-4C8A-BFCE-47670C7D5218}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message.Router", "Message.Router.csproj", "{8E5B7D2F-C43D-4C8A-BFCE-47670C7D5218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
