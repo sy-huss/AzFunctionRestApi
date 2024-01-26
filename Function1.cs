@@ -95,6 +95,7 @@ public static class CustomerFunction
 
         if (serviceBusClient != null)
         {
+            // Updated
             await serviceBusClient.DisposeAsync();
         }
     }
