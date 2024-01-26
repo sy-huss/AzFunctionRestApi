@@ -1,1 +1,1 @@
-# RHS.Message.Router
+# Message.Router
